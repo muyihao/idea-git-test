@@ -7,4 +7,10 @@ public class First {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+
+    public void said() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println("hehe");
+        }
+    }
 }
